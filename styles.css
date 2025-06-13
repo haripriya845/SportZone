@@ -1,0 +1,14 @@
+.nav-item{
+    font-size: larger;
+    font-weight: bold;
+    position: relative;
+    justify-content: center;
+    margin-left: 50px;
+    padding-left: 35px;
+}
+a.nav-link{
+   color: rgb(232, 127, 0);
+}
+
+
+
